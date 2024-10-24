@@ -123,7 +123,6 @@ namespace _06_Arrays
             #region KullanıcıdanDeğerAlma
 
             //string[] cities = new string[5];
-
             //for (int i = 0; i < cities.Length; i++)
             //{
             //    //çift tırnak bütünlüğünü bozmamak için eleman kullanımı için $ kullaınlır.
